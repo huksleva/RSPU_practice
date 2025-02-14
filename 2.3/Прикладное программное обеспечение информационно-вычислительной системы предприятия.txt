@@ -1,0 +1,66 @@
+Список ПО:
+
+1C: Предприятие 8 Тонкий клиент (8.3.13.1690)
+7-Zip 24.08 (x64)
+Adobe Reader Xl - Russian
+Anaconda3 2024.06-1 (Python 3.12.4 64-bit)
+Docker Desktop
+Far Manager 3 (x64)
+Flameshot
+GIMP 2.10.38
+Git
+Github Desktop
+Google Chrome
+Jazz 1.45.28
+Julia 1.10.5
+Kaspersky Endpoint Security для Windows
+KNIME Analytics Plastics Platform
+Maxima computer algebra system
+Microsoft Edge
+Microsoft Office проффесиональный плюс 2016
+Microsoft OneDrive
+Microsoft Update Health Tools
+Microsoft Visual C++ 2015-2022 Redistrictable (x64)
+Microsoft Visual C++ 2015-2022 Redistrictable (x86)
+Microsoft Visual Studio Code
+Microsoft Visual Studio Code (User)
+MiKTeX
+Mozilla Firefox (x64 ru)
+Mozilla Maintenance Service
+MSYS2
+NAPS2 7.1.2
+Notepad++ (64-bit x64)
+Paint
+paint.net
+PowerShell 2.4.6.0-x64
+PowerShell 2.6.2.0-x64
+PyCharm 2024.2.1
+PyCharm 2024.2.1
+PyCharm Community Edition 2024.2.2
+Python 3.10.11 (64-bit)
+Python 3.12.6 (64-bit)
+Python Launcher
+Qalculatel
+Rust 1.81 (MSVC 64-bit)
+SumatraPDF
+SumatraPDF
+TeXstudio - TeXstudio is a fully featured LaTeX editor
+Total Commander 64-bit (Remove or Repair)
+Update for x64-based Windows System (KB5001716)
+VLC media player
+Windows Subsystem for Linux Update
+Yandex Browser
+Zettlr
+Агент администрирования Kaspersky Security Center
+Ножницы
+Подключение к удалённому столу
+Яндекс.Телемост
+
+
+
+
+
+
+
+
+
